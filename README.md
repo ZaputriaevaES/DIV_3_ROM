@@ -1,7 +1,10 @@
 # DIVISIBILITY_BY_3 & ROM
  Two simple projects for the implementation of divisibility testing at 3 and memory module.
 
-###  How to build DIVISIBILITY_BY_3
+## DIVISIBILITY_BY_3
+ ![My Image](images/div_by_3/img_1.png)
+ ![My Image](images/div_by_3/img_2.png)
+###  How to build 
 in folder div_by_3/
 ```
     make div_by_3
@@ -13,6 +16,11 @@ in folder div_by_3/
    gtkwave dump.vcd
 ```
 
+## ROM
+
+ ![My Image](images/memory/img_1.png)
+ ![My Image](images/memory/img_2.png)
+ 
 ###  How to build ROM
 in folder memory/
 ```
