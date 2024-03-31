@@ -1,0 +1,188 @@
+$date
+	Sun Mar 31 22:40:16 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	100ps
+$end
+$scope module testbench $end
+$var wire 10 ! q [9:0] $end
+$var reg 6 " addr_r [5:0] $end
+$var reg 6 # addr_w [5:0] $end
+$var reg 1 $ clk $end
+$var reg 10 % d [9:0] $end
+$var reg 1 & read $end
+$var reg 1 ' write $end
+$scope module rom $end
+$var wire 6 ( addr_r [5:0] $end
+$var wire 6 ) addr_w [5:0] $end
+$var wire 1 $ clk $end
+$var wire 10 * datain [9:0] $end
+$var wire 1 & read $end
+$var wire 1 ' write $end
+$var reg 10 + dataout [9:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx +
+b1100 *
+b0 )
+b0 (
+1'
+0&
+b1100 %
+0$
+b0 #
+b0 "
+bx !
+$end
+#10
+1$
+#20
+0$
+b1101 %
+b1101 *
+1&
+0'
+#30
+b1100 !
+b1100 +
+1$
+#40
+0$
+b1110 %
+b1110 *
+0&
+1'
+#50
+1$
+#60
+0$
+b1111 %
+b1111 *
+1&
+0'
+#70
+b1110 !
+b1110 +
+1$
+#80
+0$
+b100100 %
+b100100 *
+b1 "
+b1 (
+b1 #
+b1 )
+0&
+1'
+#90
+1$
+#100
+0$
+b100101 %
+b100101 *
+1&
+0'
+#110
+b100100 !
+b100100 +
+1$
+#120
+0$
+b100110 %
+b100110 *
+1'
+#130
+1$
+#140
+0$
+b100111 %
+b100111 *
+0'
+#150
+b100110 !
+b100110 +
+1$
+#160
+0$
+#170
+1$
+#180
+0$
+#190
+1$
+#200
+0$
+#210
+1$
+#220
+0$
+#230
+1$
+#240
+0$
+#250
+1$
+#260
+0$
+#270
+1$
+#280
+0$
+#290
+1$
+#300
+0$
+#310
+1$
+#320
+0$
+#330
+1$
+#340
+0$
+#350
+1$
+#360
+0$
+#370
+1$
+#380
+0$
+#390
+1$
+#400
+0$
+#410
+1$
+#420
+0$
+#430
+1$
+#440
+0$
+#450
+1$
+#460
+0$
+#470
+1$
+#480
+0$
+#490
+1$
+#500
+0$
+#510
+1$
+#520
+0$
+#530
+1$
+#540
+0$
