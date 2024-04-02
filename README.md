@@ -28,7 +28,7 @@ in folder memory/
     vvp memory
 ```
 ###  How to run GTKWave
-in folder div_by_3/
+in folder memory/
 ```
    gtkwave dump.vcd
 ```
